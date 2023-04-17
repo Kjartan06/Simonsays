@@ -1,9 +1,9 @@
 # Simonsays
 Ég var ansi nálgæt að klára nema ég var hæggari en hinir sem finnst mér var eitt af ástæðunum ég gat ekki klárað allt á tíma. Ég líka hafði erfitt að málma út af reykinum og sjóveikur út af reykinum strax.
+[Simonsays](linkur)
 
-
-# texti
-## texti
+# Simonsays
+## Simonsays
 <img src= https://user-images.githubusercontent.com/115498538/232611499-57861963-1cdb-4bf1-a83b-96643e2bbfb8.JPG width="50%" height="50%">
 <img src= https://user-images.githubusercontent.com/115498538/232611540-0f85543a-82bf-4dba-8454-212b562ede60.JPG width="50%" height="50%">
 <img src= https://user-images.githubusercontent.com/115498538/232611577-a0c268d7-d2a9-4625-9df6-74970a989e18.JPG width="50%" height="50%">
