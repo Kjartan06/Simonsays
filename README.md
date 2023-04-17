@@ -1,5 +1,5 @@
 # Simonsays
-Ég var ansi nálgæt að klára nema ég var hæggari en hinir sem finnst mér var eitt af ástæðunum ég gat ekki klárað allt á tíma. Ég líka hafði erfitt að málma út af reykinum og sjóveikur út af reykinum strax.
+Ég var ansi nálgæt að klára nema ég var hæggari en hinir sem finnst mér var eitt af ástæðunum ég gat ekki klárað allt á tíma. Ég líka hafði erfitt að málma út af reykinum og sjóveikur út af reykinum strax.'
 
 [Simonsays](https://github.com/Kjartan06/Simonsays.git)
 
